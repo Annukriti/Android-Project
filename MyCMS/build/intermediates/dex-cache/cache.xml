@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_f41f23e969457537c959b87a9c5941113f566e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.1_5650ad4c02a250c9521d2de49bf922b4ddcb5345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_8671cacff0cd41c48d0e60099d7a52d673140ca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d01902a80cb52c283941b014b1ad4d466402ac0a">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.1_e2497e30e0fff6115c55b7dba4ca64698a90d246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_8ad4b2b0773dfc8337701f9797224f375aa42141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34375e2adbbe36bc39f2b5fae55d549b9efc77e6">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.1_3b1e9581369882cf5859f844d9524b80390ed1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_89e27a61ebb73c7c9271f053e1c7c3c674db35e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="632cf2bb01c851b401accc577991865c36cc1fae">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.1_7959ded59d92a9082af6aaa571d8ba6249267656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_5c72462b2daf2522b44b0e62fff26b3e31d809b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_555825e7cfe8ee0bb4143e88f72f2282e1153051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_6b40ec7b7112b24e8104f08a3ea350e233d3cee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_60adaf81c60414b332be42e231f9e90cea5bddf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.0_5507210c650aa69ec735f62d4b16735f75d84cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_5b995cefb2d6e9d7356eee78545aaf12710be9da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_18f9ecd0fca86122379faa3ce8c9201486f4c18b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_e6ee9b4122fa00f02046febc0dc0ff92e396d61c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60f1c7b6953c6c82c4733b2cd67713835ed4fc39">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.1_393fb34364618bf2249569096e5e4f3c21502c1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.0_b024f2edc5d109e2b69ab94d087b56c475aa5733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.1_19784a378cc4b16482331c797b6761b1482b6e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_c327ec2fb0e96659c81c115eefafd83dd6cc4554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.1_0eb183e4e52f40ac407d0b4d3eb1a4219d36026e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bce13b18d5b0549a6126d6176a36cf3e53a83f3f">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.1_67dab6a6f6da3a9343c50409c53b182e7f3cf637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b94d84286db4c24557b661015bc67497444a4071">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.1_8b3799e8c5aecfb330ef72d4b19027b2af000ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b29247074934099d307e4bc995e67bf8ff5fae94">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_fcf43c9127312d7aed2cc5b992d4b74547be2a2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93779beb83069c13f278b652b2206f1f24850705">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.1_bdfdad41fd168d6ea61c0e31d16a97146e427baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.1_b1bbe90970aa6cafff437cdf74f0f223f4eff0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2589e786e43ac43cffb69e8c80b5fb254fbacef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_14ab8b0451a1b8d93a7381139aaa35668d9b40c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df7b50ec047648cc71075ec1ee24d3c9cf337e41">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.1_78eb58a93a107e2e29b7db0a77a7cbed9a92a727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_14ab8b0451a1b8d93a7381139aaa35668d9b40c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34375e2adbbe36bc39f2b5fae55d549b9efc77e6">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.0.1_3b1e9581369882cf5859f844d9524b80390ed1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d01902a80cb52c283941b014b1ad4d466402ac0a">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.0.1_e2497e30e0fff6115c55b7dba4ca64698a90d246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9663366e1e6f9078d60c2701090c80e9fb644a36">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.1_5d25997f8d68e3ad902011e80e9eab4b93183190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec30e2f9ad6feda6a7d65b3876cb46e1d01a0d93">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/instant-run_cb9b0918d69f01a1437ade1db3fcb9defe201f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_f41f23e969457537c959b87a9c5941113f566e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.0.1_5650ad4c02a250c9521d2de49bf922b4ddcb5345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_6b40ec7b7112b24e8104f08a3ea350e233d3cee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_8ad4b2b0773dfc8337701f9797224f375aa42141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_8671cacff0cd41c48d0e60099d7a52d673140ca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_5b995cefb2d6e9d7356eee78545aaf12710be9da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.0_5507210c650aa69ec735f62d4b16735f75d84cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_5c72462b2daf2522b44b0e62fff26b3e31d809b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_555825e7cfe8ee0bb4143e88f72f2282e1153051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_89e27a61ebb73c7c9271f053e1c7c3c674db35e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_60adaf81c60414b332be42e231f9e90cea5bddf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="632cf2bb01c851b401accc577991865c36cc1fae">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.0.1_7959ded59d92a9082af6aaa571d8ba6249267656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.0.1_0eb183e4e52f40ac407d0b4d3eb1a4219d36026e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2589e786e43ac43cffb69e8c80b5fb254fbacef3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.0.1_19784a378cc4b16482331c797b6761b1482b6e97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b94d84286db4c24557b661015bc67497444a4071">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.0.1_8b3799e8c5aecfb330ef72d4b19027b2af000ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60f1c7b6953c6c82c4733b2cd67713835ed4fc39">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.0.1_393fb34364618bf2249569096e5e4f3c21502c1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_18f9ecd0fca86122379faa3ce8c9201486f4c18b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.0.1_b1bbe90970aa6cafff437cdf74f0f223f4eff0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bce13b18d5b0549a6126d6176a36cf3e53a83f3f">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.0.1_67dab6a6f6da3a9343c50409c53b182e7f3cf637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93779beb83069c13f278b652b2206f1f24850705">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.0.1_bdfdad41fd168d6ea61c0e31d16a97146e427baa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.0_b024f2edc5d109e2b69ab94d087b56c475aa5733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_c327ec2fb0e96659c81c115eefafd83dd6cc4554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df7b50ec047648cc71075ec1ee24d3c9cf337e41">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.0.1_78eb58a93a107e2e29b7db0a77a7cbed9a92a727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9663366e1e6f9078d60c2701090c80e9fb644a36">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.0.1_5d25997f8d68e3ad902011e80e9eab4b93183190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/annu/AndroidStudioProjects/MyCMS/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_e6ee9b4122fa00f02046febc0dc0ff92e396d61c.jar" />
+    </item>
+
+</items>
